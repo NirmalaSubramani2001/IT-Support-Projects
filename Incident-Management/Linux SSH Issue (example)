@@ -1,0 +1,12 @@
+## SSH Service Not Running
+
+### Issue
+User unable to connect via SSH
+
+### Troubleshooting
+- systemctl status sshd
+- Checked firewall rules
+- Restarted ssh service
+
+### Resolution
+SSH service restarted successfully
